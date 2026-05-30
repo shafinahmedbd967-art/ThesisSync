@@ -81,7 +81,7 @@ This project represents a collaboration between human creativity and AI-assisted
 
 ---
 
-## 👨‍💻 Author Contribution
+## 👨‍💻 Author Contribution - Shafin Ahmed 
 
 * 💡 Idea & Concept Design
 * 🧩 Feature Planning
